@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.exe
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Form1.resources
